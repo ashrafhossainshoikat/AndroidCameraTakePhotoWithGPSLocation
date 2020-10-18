@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="get_image">Take Photo</string>
+    <string name="btnSubmit">Submit</string>
+</resources>
